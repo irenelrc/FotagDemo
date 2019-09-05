@@ -50,3 +50,7 @@ When in the image grid, if user touches the image thumbnail in the grid, the ima
 Phone: Pixel (Google Phone) AVD using API 28.
 
 Android SDK: API 28.
+
+
+### /******************** Screenshot ********************/
+![Start](start.png)
