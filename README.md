@@ -66,6 +66,6 @@ Rate images:
 
 <img src="https://github.com/irenelrc/FotagDemo/blob/master/rate.png" width="400">
 <br />
-Filter images based on their ratings
+Filter images based on their ratings:
 
 <img src="https://github.com/irenelrc/FotagDemo/blob/master/rate_and_filter.png" width="400">
