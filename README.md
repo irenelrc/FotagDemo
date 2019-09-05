@@ -53,5 +53,4 @@ Android SDK: API 28.
 
 
 ### /******************** Screenshot ********************/
-![Start](start.png | width=50)
-<img src="https://github.com/irenelrc/FotagDemo/blob/master/start.png" width="100">
+<img src="https://github.com/irenelrc/FotagDemo/blob/master/start.png" width="500">
