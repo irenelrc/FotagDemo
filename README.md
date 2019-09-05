@@ -53,4 +53,4 @@ Android SDK: API 28.
 
 
 ### /******************** Screenshot ********************/
-![Start](start.png)
+![Start](start.png){:height="40%" width="40%"}
