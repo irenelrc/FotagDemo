@@ -56,4 +56,16 @@ Android SDK: API 28.
 
 Launch:
 
-<img src="https://github.com/irenelrc/FotagDemo/blob/master/start.png" width="300">
+<img src="https://github.com/irenelrc/FotagDemo/blob/master/start.png" width="400">
+<br />
+Load images:
+
+<img src="https://github.com/irenelrc/FotagDemo/blob/master/load.png" width="400">
+<br />
+Rate images:
+
+<img src="https://github.com/irenelrc/FotagDemo/blob/master/rate.png" width="400">
+<br />
+Filter images based on their ratings
+
+<img src="https://github.com/irenelrc/FotagDemo/blob/master/rate_and_filter.png" width="400">
